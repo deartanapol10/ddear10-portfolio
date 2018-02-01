@@ -1,5 +1,5 @@
-# Project Title
-One Paragraph of project description goes here
+# Dear's Portfolio
+Data Science Projects completed by me for self learning and hobby.
 
 ## Getting Started
 
